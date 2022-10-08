@@ -3,7 +3,7 @@
 
 EMULATION IS A CODING CLUB OF ACCURATE GROUP OF INSTITUTIONS.
 
-
+![MasterHead](https://github.com/Nasir-buddy/Emulation-accurate/blob/main/emulation%20animated%20banner.gif)
 
 # Hi, This is a official coding group of the Accurate Institute of instutions! 👋
 
@@ -13,15 +13,15 @@ EMULATION IS A CODING CLUB OF ACCURATE GROUP OF INSTITUTIONS.
 
 
 
-👩‍💻 I'm currently working on...
+👩‍💻 We currently working on Web development , Android Development , Competetive Programming..
 
-🧠 I'm currently learning...
+🧠 We are currently learning on cross platform.
 
-👯‍♀️ I'm looking to collaborate on...
+👯‍ We looking to collaborate on different hackathon and coding competition
 
-🤔 I'm looking for help with...
+🤔 We looking for help with othersl
 
-💬 Ask me about...
+💬 Ask me about anything.
 
 📫 How to reach me...
 
