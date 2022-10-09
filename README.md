@@ -43,7 +43,7 @@ We have skilled Coders ...
 - [@Nasir Ali](https://www.github.com/nasir-buddy)
 - [@Satyam Srivastav](https://www.github.com/)
 - [@Aman Jha](https://www.github.com/)
-- [@Anurag Singh Chauhan](https://www.github.com/)
+- [@Anurag Singh Chauhan](https://www.github.com/anuragchauhan766)
 - [@Anurag Verma](https://www.github.com/)
 
 ## Acknowledgements
