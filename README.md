@@ -66,12 +66,10 @@ See `contributing.md` for ways to get started.
 
 
 ## Features
-
-- To provide best support in coding to our collage.
-- To increase the intrest in coding to our club members.
-- We work together this will improve our team work.
-- We have cross platform workers.
-
+- To provide best support in coding in our collage.
+- To increase the intrest in coding among the  club members.
+- We work together as a team.
+- We have cross platform workers.
 
 ## License
 
