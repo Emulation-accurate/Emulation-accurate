@@ -17,9 +17,9 @@ EMULATION IS A CODING CLUB OF ACCURATE GROUP OF INSTITUTIONS.
 
 🧠 We are currently learning on cross platform.
 
-👯‍ We looking to collaborate on different hackathon and coding competition
+👯‍ We looking to collaborate on different hackathon and coding competition.
 
-🤔 We looking for help with othersl
+🤔 We looking for help with others.
 
 💬 Ask me about anything.
 
