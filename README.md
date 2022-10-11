@@ -21,8 +21,6 @@ EMULATION IS A CODING CLUB OF ACCURATE GROUP OF INSTITUTIONS.
 
 🤔 We looking for help with others.
 
-💬 Ask me about anything.
-
 📫 How to reach me...
 
 😄 Pronouns...
@@ -42,28 +40,18 @@ We have skilled Coders ...
 - [@Shreyansh Singh](https://www.github.com/Shreyansh2407)
 - [@Nasir Ali](https://www.github.com/nasir-buddy)
 - [@Satyam Srivastav](https://github.com/lieftsatyamShrivastava)
-- [@Aman Jha](https://www.github.com/)
 - [@Anurag Singh Chauhan](https://www.github.com/anuragchauhan766)
 - [@Anurag Verma](https://github.com/Anuragvermaaa)
-
-## Acknowledgements
-
- - [will write](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [will write](https://github.com/matiassingers/awesome-readme)
- - [will write](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
 
 
 ## Appendix
 
-Any additional information goes here
+Be nice to everyone.
 
 
 ## Contributing
 
 Contributions are always welcome!
-
-See `contributing.md` for ways to get started.
-
 
 ## Features
 - To provide best support in coding in our collage.
@@ -71,24 +59,10 @@ See `contributing.md` for ways to get started.
 - We work together as a team.
 - We have cross platform workers.
 
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
-
 ## Members List
 
 [Members List](https://linktodocumentation)
 
-
-## Support
-
-For support, email _________@gmail.com or join our Discord channel.
-
-
 ## Tech Stack
 
-**Client:** React, Redux, TailwindCSS
-
-**Server:** Node, Express
-
+- All languages , website development , Android Development
