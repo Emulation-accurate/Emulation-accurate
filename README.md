@@ -41,10 +41,10 @@ We have skilled Coders ...
 
 - [@Shreyansh Singh](https://www.github.com/Shreyansh2407)
 - [@Nasir Ali](https://www.github.com/nasir-buddy)
-- [@Satyam Srivastav](https://www.github.com/)
+- [@Satyam Srivastav](https://github.com/lieftsatyamShrivastava)
 - [@Aman Jha](https://www.github.com/)
 - [@Anurag Singh Chauhan](https://www.github.com/anuragchauhan766)
-- [@Anurag Verma](https://www.github.com/)
+- [@Anurag Verma](https://github.com/Anuragvermaaa)
 
 ## Acknowledgements
 
